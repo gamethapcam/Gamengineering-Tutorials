@@ -8,9 +8,11 @@ https://gamengineering.blogspot.com/
 ## Prerequisites
 
 The game was updated for the latest LibGDX release 1.9.9. Find more in the link:
+
 https://libgdx.badlogicgames.com/versions.html
 
 It's also updated to run for Android Studio 3.4.0:
+
 https://developer.android.com/studio
 
 
@@ -22,6 +24,7 @@ DO NOT upgrade the gradle to the latest version. LibGDX 1.9.9 works with Gradle 
 ## Authors
 
 * By the Creator of Black Dodger
+
 https://play.google.com/store/apps/details?id=com.blackdodger&hl=el
 
 
