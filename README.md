@@ -17,3 +17,4 @@ It's also updated to run for Android Studio 3.4.0:
 https://developer.android.com/studio
 
 DO NOT upgrade the gradle to latest version. LibGDX 1.9.9 works with Gradle Version 3.2.0.
+===
