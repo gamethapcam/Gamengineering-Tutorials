@@ -2,6 +2,7 @@
 # Gamengineering - Tutorials
 
 This is a complete mini clone of Black Dodger called Getest. You can find more about the procedure of its creation here:
+
 https://gamengineering.blogspot.com/
 
 ## Prerequisites
@@ -21,7 +22,6 @@ DO NOT upgrade the gradle to the latest version. LibGDX 1.9.9 works with Gradle 
 ## Authors
 
 * By the Creator of Black Dodger
-
 https://play.google.com/store/apps/details?id=com.blackdodger&hl=el
 
 
