@@ -15,12 +15,13 @@ https://developer.android.com/studio
 
 ## Important Notes
 
-DO NOT upgrade the gradle to latest version. LibGDX 1.9.9 works with Gradle Version 3.2.0.g
+DO NOT upgrade the gradle to the latest version. LibGDX 1.9.9 works with Gradle Version 3.2.0.
 
 
 ## Authors
 
 * By the Creator of Black Dodger
+
 https://play.google.com/store/apps/details?id=com.blackdodger&hl=el
 
 
